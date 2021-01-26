@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="8dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginStart="16dp"
+        android:padding="16dp"
+        android:textColor="@color/black"
+        android:text="@string/no_results_found"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:textSize="15sp"
+        android:id="@+id/text2"
+        android:textColor="@color/black"
+        android:layout_below="@id/text1"
+        android:padding="12dp"
+        android:text="@string/follow_steps"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:textColor="@color/black"
+        android:layout_height="wrap_content"
+        android:text="@string/check_spelling"
+        android:textSize="16sp"
+        android:textAlignment="textStart"
+        android:padding="10dp"
+        android:layout_marginStart="16dp"
+        android:id="@+id/text3"
+        android:layout_below="@id/text2"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:textColor="@color/black"
+        android:layout_height="wrap_content"
+        android:text="@string/search_alter_keyword"
+        android:textSize="16sp"
+        android:padding="12dp"
+        android:layout_marginStart="16dp"
+        android:id="@+id/text4"
+        android:layout_below="@id/text3"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:textColor="@color/black"
+        android:layout_height="wrap_content"
+        android:text="@string/search_fewer_keys"
+        android:textSize="16sp"
+        android:padding="12dp"
+        android:id="@+id/text5"
+        android:layout_marginStart="16dp"
+        android:layout_below="@id/text4"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:textColor="@color/black"
+        android:layout_height="wrap_content"
+        android:text="@string/check_connection"
+        android:textSize="16sp"
+        android:padding="12dp"
+        android:id="@+id/text6"
+        android:layout_marginStart="16dp"
+        android:layout_below="@id/text5"/>
+</RelativeLayout>

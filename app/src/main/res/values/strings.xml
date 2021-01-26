@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Ebook Store</string>
+    <string name="search_book">Search Book</string>
+    <string name="search_text">Search book, author</string>
+    <string name="my_books">Library</string>
+
+    <string name="profile_setting_text">User Account</string>
+    <string name="dummy">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex cupiditate quae quidem corporis perspiciatis repellat architecto, error unde, tempore tempora rem minus fuga labore omnis exercitationem ab dolor voluptate temporibus?</string>
+
+    <string name="about_me">
+        I am Sayed Alim AHMADY, I was born in 1995. I have been working in several IT-related positions sice 2015
+        and have been involved in the IT domain especially web development and then cybersecurity since 2012.
+        In my role as a Full-Stack developer and Cyber-Security Analyst, I proved to be efficient, enthusiastic, and strong team worker.
+        My values become apparent to my managers at the National Bank of Afghanistan and Ministry of Communication &amp; IT when
+        my team successfully designed and implemented several large scale web projects and cybersecurity programs for then national bank of Afghanistan and MCIT.
+    </string>
+    <string name="do_you_understand">
+        How did you find this book? Do you recommend reading this book? Any other book you might want to suggest reading?
+    </string>
+    <!--Connection Strings-->
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="ok_internet_connection">Internet Connected</string>
+    <string name="connection_failed">Connection Failed</string>
+    <string name="connection_success">Connection Success</string>
+    <string name="connection_wait">Connection Wait</string>
+    <string name="server_connection_failed">Server Connection Failed</string>
+
+    <string name="facebook_application_id" translatable="false">2994736250617678</string>
+    <!-- Facebook Application ID, prefixed by 'fb'. Enables Chrome Custom tabs. -->
+    <string name="facebook_login_protocol_scheme" translatable="false">fb2994736250617678</string>
+
+    <string name="text_guide">Study Guide</string>
+    <string name="text_error">Report Problem</string>
+    <string name="text_book_req">Book Request</string>
+    <string name="text_logout">Logout</string>
+    <string name="text_about_us">About Developer</string>
+    <string name="text_number_books">Number of books:</string>
+    <string name="dev_profiles">Developer Profile</string>
+    <string name="text_fb">Facebook</string>
+    <string name="text_instagram">Instagram</string>
+    <string name="text_twitter">Twitter</string>
+    <string name="text_github">Github</string>
+    <string name="book_title">Book Title</string>
+    <string name="book_author">Book Author</string>
+    <string name="add_to_my_books">Add to library</string>
+    <string name="study_guide_text">Study Guide »</string>
+    <string name="other_apps">Other Apps</string>
+    <string name="share_to_whatsapp">Share to Whatsapp</string>
+    <string name="share_to_telegram">Share to Telegram</string>
+    <string name="book_intro">Book Intro</string>
+    <string name="click_dl_btn">Click on the download button</string>
+    <string name="download_book">Download Book</string>
+    <string name="comment_section">Comments</string>
+    <string name="recommend_book">Do you recommend reading this book?</string>
+    <string name="write_comment">Your Opinion</string>
+    <string name="your_opinion">Your comment…</string>
+    <string name="your_rating">Your rating: </string>
+    <string name="save_comment">Submit</string>
+    <string name="thank_feedback">Thank you for your feedback! we will fix it soon.</string>
+    <string name="report_submit">Report submitted!</string>
+    <string name="share_with_friends">Share with friends</string>
+    <string name="remove_from_library">Remove from Library</string>
+    <string name="about_this_book">About this book</string>
+    <string name="rate_book">Rate this book</string>
+    <string name="no_results_found">No Results Found</string>
+    <string name="follow_steps">For a better result please follow the steps below:</string>
+    <string name="check_spelling">1. Check your spelling.</string>
+    <string name="search_alter_keyword">2. Search with an alternative word.</string>
+    <string name="search_fewer_keys">3. Search with fewer keywords</string>
+    <string name="check_connection">4. Make sure you are connected to internet.</string>
+    <string name="notice">We will notify you once we upload the book.</string>
+    <string name="add_books_library">Library is empty. To read offline add books to your library.</string>
+    <string name="cover">Cover</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_category">Category</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_library">Library</string>
+    <string name="related_books">Related Books</string>
+    <string name="latest">Latest</string>
+    <string name="recommendation">Recommended</string>
+
+    <string-array name="book_lang">
+        <item>Persian</item>
+        <item>French</item>
+        <item>English</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1019375277991",
+    "project_id": "ebook-f833e",
+    "storage_bucket": "ebook-f833e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019375277991:android:75b1870ce1e8929dde8882",
+        "android_client_info": {
+          "package_name": "com.alim.ebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019375277991-ua5h26jmnomhf75t8av0lvucsh792gs2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alim.ebook",
+            "certificate_hash": "2e1e59d3128439d24f73db08a07e6ad692968533"
+          }
+        },
+        {
+          "client_id": "1019375277991-a04fk44asrp6csr1f2693b9ncrjvq0ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBgoE3JVL-7fOt07DONubmA1wOMPhvirE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019375277991-a04fk44asrp6csr1f2693b9ncrjvq0ln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".Fragments.SearchFragment">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/Bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="?android:attr/windowBackground">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/postToolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="0dp"
+            android:background="@color/colorPrimary">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:layout_centerVertical="true"
+                    android:gravity="center"
+                    android:layout_marginEnd="20dp"
+                    android:text="@string/search_book"
+                    android:textColor="@color/white"
+                    android:textSize="37sp"
+                    android:textStyle="bold" />
+
+            </RelativeLayout>
+
+
+        </androidx.appcompat.widget.Toolbar>
+
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/Bar">
+
+        <RelativeLayout
+            android:id="@+id/relative_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingBottom="32dp">
+
+            <androidx.appcompat.widget.SearchView
+                android:id="@+id/editText_search"
+                android:layout_width="match_parent"
+                android:layout_height="94dp"
+                android:background="@drawable/bg_search"
+                android:drawablePadding="10dp"
+                app:queryHint="@string/search_text"
+                android:singleLine="true"
+                android:paddingStart="8dp"
+                android:paddingEnd="8dp"
+                app:iconifiedByDefault="false"
+                android:textAlignment="textStart"
+                android:textSize="20sp" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/search_rv"
+                android:layout_marginTop="8dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="gone"
+                android:layout_below="@id/editText_search"
+                android:padding="4dp" />
+
+            <include layout="@layout/search_failed_item"
+                android:layout_below="@id/search_rv"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:visibility="gone"
+                android:id="@+id/search_failed_view"/>
+
+        </RelativeLayout>
+
+    </androidx.core.widget.NestedScrollView>
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:id="@+id/search_fragment_progress"
+        android:visibility="invisible"
+        android:indeterminateTint="@color/colorPrimaryDark"
+        />
+
+</RelativeLayout>

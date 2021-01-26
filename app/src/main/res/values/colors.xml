@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#29C8C6</color>
+    <color name="colorPrimaryDark">#0CA7C3</color>
+    <color name="colorAccent">#11CDEF</color>
+    <color name="white">#FFF</color>
+    <color name="blue">#4392F9</color>
+    <color name="black">#000</color>
+    <color name="btn_bg_color">#32325D</color>
+    <color name="bg_custom_signin">#F4F5F7</color>
+    <color name="placeholder_bg">#CACACA</color>
+    <color name="app_bg">#f1f8fe</color>
+<!--    Connection colors-->
+    <color name="colorConnectionWait">#fbbc05</color>
+    <color name="colorConnectionFailed">#ea4335</color>
+    <color name="colorConnectionOk">#00dd75</color>
+    <color name="main_ground">#ECEEF1</color>
+
+    <!--  Connection colors end  -->
+</resources>
