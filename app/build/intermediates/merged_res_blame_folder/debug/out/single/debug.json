@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_search.xml.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\drawable\\bg_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_logo.xml.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\layout\\activity_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_connection.xml.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\layout\\custom_connection.xml"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_submit.xml.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\drawable\\bg_submit.xml"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_new_book.xml.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\layout\\activity_new_book.xml"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_forward.xml.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\drawable\\ic_arrow_forward.xml"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_sign_up.xml.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\drawable\\bg_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_red.xml.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\drawable\\bg_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_account_grey.xml.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\drawable\\ic_account_grey.xml"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_edit_text.xml.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\drawable\\bg_edit_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\menu_navigation.xml.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\menu\\navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\anim_item_animation_fall_down.xml.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\anim\\item_animation_fall_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_subject.xml.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\drawable\\ic_subject.xml"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_edit_white.xml.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\drawable\\ic_edit_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_book_detail.xml.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\layout\\activity_book_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_failed_item.xml.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\layout\\failed_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\anim_zoom_in.xml.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\anim\\zoom_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ebook.png.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\drawable\\ebook.png"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_photo.xml.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\drawable\\ic_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_application.xml.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\layout\\activity_add_application.xml"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_light_white.xml.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\drawable\\bg_light_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_google.xml.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\drawable\\google.xml"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nav_selector.xml.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\drawable\\nav_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_sign_in.xml.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\drawable\\bg_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_search.xml.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_search_row_item.xml.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\layout\\search_row_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\anim_layout_animation.xml.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\anim\\layout_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_update.xml.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\layout\\activity_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_delete_.xml.flat",
+        "source": "C:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\src\\main\\res\\drawable\\ic_baseline_delete_.xml"
+    }
+]

@@ -1,0 +1,52 @@
+com/alim/ebook_admin/Fragments/SearchFragment.java
+ com.alim.ebook_admin.Fragments.SearchFragment
+ com.alim.ebook_admin.Fragments.SearchFragment$1
+com/alim/ebook_admin/LoginActivity.java
+ com.alim.ebook_admin.LoginActivity
+ com.alim.ebook_admin.LoginActivity$1
+com/alim/ebook_admin/Fragments/AddNewBookFragment.java
+ com.alim.ebook_admin.Fragments.AddNewBookFragment
+ com.alim.ebook_admin.Fragments.AddNewBookFragment$1
+ com.alim.ebook_admin.Fragments.AddNewBookFragment$2
+com/alim/ebook_admin/Models/Comment.java
+ com.alim.ebook_admin.Models.Comment
+com/alim/ebook_admin/Models/Group.java
+ com.alim.ebook_admin.Models.Group
+com/alim/ebook_admin/BuildConfig.java
+ com.alim.ebook_admin.BuildConfig
+com/alim/ebook_admin/Adapters/BookSearchAdapter.java
+ com.alim.ebook_admin.Adapters.BookSearchAdapter
+ com.alim.ebook_admin.Adapters.BookSearchAdapter$1
+ com.alim.ebook_admin.Adapters.BookSearchAdapter$2
+ com.alim.ebook_admin.Adapters.BookSearchAdapter$ViewHolder
+com/alim/ebook_admin/Models/Ads.java
+ com.alim.ebook_admin.Models.Ads
+com/alim/ebook_admin/Models/Book.java
+ com.alim.ebook_admin.Models.Book
+com/alim/ebook_admin/Models/BookRequest.java
+ com.alim.ebook_admin.Models.BookRequest
+com/alim/ebook_admin/Fragments/AddAppFragment.java
+ com.alim.ebook_admin.Fragments.AddAppFragment
+ com.alim.ebook_admin.Fragments.AddAppFragment$1
+com/alim/ebook_admin/Activities/UpdateActivity.java
+ com.alim.ebook_admin.Activities.UpdateActivity
+ com.alim.ebook_admin.Activities.UpdateActivity$1
+ com.alim.ebook_admin.Activities.UpdateActivity$2
+com/alim/ebook_admin/Activities/BookDetailActivity.java
+ com.alim.ebook_admin.Activities.BookDetailActivity
+com/alim/ebook_admin/Activities/LogoActivity.java
+ com.alim.ebook_admin.Activities.LogoActivity
+ com.alim.ebook_admin.Activities.LogoActivity$1
+com/alim/ebook_admin/Models/Category.java
+ com.alim.ebook_admin.Models.Category
+com/alim/ebook_admin/Models/FavBooks.java
+ com.alim.ebook_admin.Models.FavBooks
+com/alim/ebook_admin/Models/Report.java
+ com.alim.ebook_admin.Models.Report
+com/alim/ebook_admin/Models/User.java
+ com.alim.ebook_admin.Models.User
+com/alim/ebook_admin/Models/FavBook.java
+ com.alim.ebook_admin.Models.FavBook
+com/alim/ebook_admin/MainActivity.java
+ com.alim.ebook_admin.MainActivity
+ com.alim.ebook_admin.MainActivity$1

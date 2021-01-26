@@ -1,0 +1,13 @@
+#Tue Jan 26 20:32:43 CET 2021
+path.3=classes3.dex
+path.2=classes2.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.3=C\:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes3.dex
+base.2=C\:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+base.1=C\:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+base.0=C\:\\Users\\yiliu\\Desktop\\Semester3\\AndroidDevelopment\\finalProject\\ebook-admin-main\\ebook-admin-main\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
