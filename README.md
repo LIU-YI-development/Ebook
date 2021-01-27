@@ -1,5 +1,5 @@
 # Ebook
-Pleasr check user and admin branch
+Please check user and admin branch
 
 completed by 
 AHMADY Sayed Alim (61084)
